@@ -1,6 +1,8 @@
 # Cookiecutter API Templating
 
-Article: [TBD]()
+Generate a FastAPI to speed up your API development
+
+Article: [Soon...]()
 
 <img src="/cookiecutter-fastapi.gif" width="50%" height="50%"/>
 
