@@ -1,17 +1,29 @@
 # Cookiecutter API Templating
 
 Article: [TBD]()
+![video cookiecutter-fastapi](cookiecutter-fastapi.mov)
 
 ## Description
 
-As we're building more and more APIs it's important to:
+- Don't know how to get started with building APIs?
+- Tired of copy pasting folders when creating a new API?
 
-1. Make this a fast and smooth process
-2. Align structure over all APIs
+Use this cookiecutter-fastapi repo to generate your API. The goal of this repo is to speed up your api development. The goal is not to provide you with a full functioning tailored API.
 
-## Visuals
+Use this repo to generate a base for your API. Next, tailor it to you specific use case.
 
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+## Features
+
+- Option for local development in a virtual environment
+- Option to run the service as a container with a Dockerfile as well as Docker Compose
+- 1 API folder where different subfolders can be added for different endpoint versions (e.g. v1/)
+- 1 schema folder for input validation
+- 1 utils folder where custom functions can be added
+- 1 model folder where a predictive model can be added
+- 1 default GET endpoint
+- 1 GET endpoint that can be used for a health check
+- 1 POST endpoint
+- 1 tests folder that includes pytest examples integrated for these 3 endpoints
 
 ## Pre-requisites
 
@@ -25,10 +37,10 @@ pip3 install cookiecutter
 
 1. Open the terminal and navigate to the folder where you'd like to create your API.
 
-2. Generate API
+2. Generate your API
 
 ```bash
-cookiecutter /Users/stefan.samba/Documents/GitHub/cookiecutter
+cookiecutter https://github.com/StefanSamba/cookiecutter-fastapi.git
 ```
 
 3. Enter details in CLI
@@ -39,12 +51,6 @@ project name: sample_project
 endpoint name: analyze_text
 
 Done, your project is ready for use. See readme in your project for more details on how to run it.
-
-## Roadmap
-
-Ideas for releases in the future:
-
-- Availability as private package
 
 ## Contributing
 
