@@ -2,7 +2,7 @@
 
 Article: [TBD]()
 
-<img src="/cookiecutter-fastapi.gif" width="250" height="250"/>
+<img src="/cookiecutter-fastapi.gif" width="50%" height="50%"/>
 
 ## Description
 
