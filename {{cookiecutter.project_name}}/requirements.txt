@@ -1,0 +1,6 @@
+fastapi==0.70.1
+pydantic==1.8.2
+typing_extensions==4.0.1
+flake8==3.9.2
+pytest==6.2.4
+requests==2.26.0

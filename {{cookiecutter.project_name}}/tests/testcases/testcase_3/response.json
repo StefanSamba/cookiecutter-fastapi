@@ -1,0 +1,10 @@
+{
+  "utterances": [
+    {
+      "text": "Hi, this is just an example string"
+    },
+    {
+      "text": "This is a second example string"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  {{cookiecutter.project_name}}:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: "{{cookiecutter.project_name}}-api"
+    ports:
+      - "80:80"
