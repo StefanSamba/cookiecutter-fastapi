@@ -1,7 +1,11 @@
 # Cookiecutter API Templating
 
 Article: [TBD]()
+<<<<<<< Updated upstream
 <video src='cookiecutter-fastapi.mov'></video>
+=======
+![video cookiecutter-fastapi](cookiecutter-fastapi.gif)
+>>>>>>> Stashed changes
 
 ## Description
 
