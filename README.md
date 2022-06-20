@@ -1,9 +1,7 @@
 # Cookiecutter API Templating
 
 Article: [TBD]()
-![video cookiecutter-fastapi](cookiecutter-fastapi.mov)
-<video src='cookiecutter-fastapi.mov' width=180/>
-
+<video src='cookiecutter-fastapi.mov'></video>
 
 ## Description
 
