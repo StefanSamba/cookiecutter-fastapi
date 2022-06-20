@@ -38,6 +38,8 @@ pip3 install cookiecutter
 
 ## Usage
 
+![Terminal commands to generate API](cookiecutter-fastapi.png)
+
 1. Open the terminal and navigate to the folder where you'd like to create your API.
 
 2. Generate your API
