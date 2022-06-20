@@ -2,7 +2,7 @@
 
 Generate a FastAPI to speed up your API development
 
-Article: [Soon...]()
+[Medium Article](https://medium.com/@stefan-samba/speed-up-api-development-by-generating-your-apis-315b19a9a3a8)
 
 <img src="/cookiecutter-fastapi.gif" width="50%" height="50%"/>
 
